@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hi, I'm Foyzul, currently working on building a personal portfolio app to showcase my skills in Flutter. I'm eager to collaborate on AI, ML, and DL projects, and I'm actively looking for guidance on how to host my personal AI models on the backend. I'm also learning Django to expand my backend development knowledge.<br><br>On a personal note, I'm a gamer and enjoy playing games as a way to relax and unwind. Feel free to ask me about any exciting ideas or just chat about the latest trends in tech and gaming!
 
+# Contribution:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FoyzulHoque/FoyzulHoque/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FoyzulHoque/FoyzulHoque/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FoyzulHoque/FoyzulHoque/output/github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/foyzul.hoque.5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/foyzul-hoque-8b5277184/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amanhoque5218) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:foyzul.aman@gmail.com) 
